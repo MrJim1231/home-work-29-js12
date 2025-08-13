@@ -19,4 +19,7 @@
    npm install
    ```
 3. Запустити тести:
-   npm run test:jest
+
+```bash
+ npm run test:jest
+```
